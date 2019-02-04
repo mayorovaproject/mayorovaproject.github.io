@@ -15,8 +15,7 @@
 
 ![alt text](2.jpg)
 ## Наш репозиторий
-
-https://github.com/ArthurIshmukhametov/EPMS
+https://github.com/mayorovaproject/EPMS
 
 ## О проекте
 Нужно
