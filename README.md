@@ -7,10 +7,9 @@
 **Майорова Александра** | **Артур Ишмухаметов**
 @AlexandraMayorova | @ArthurIshmukhametov
 ![alt text](1.jpg) | ![alt text](2.jpg)
-
+mayorova.alexandra83@gmail.com | stook1998@yandex.ru
 ## Наш репозиторий
 https://github.com/mayorovaproject/EPMS
-
 ## О проекте
 Нужно
 ## Цэхническая реализация
