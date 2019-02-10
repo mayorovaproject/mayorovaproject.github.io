@@ -1,7 +1,7 @@
 # project EPMS
 Проект EPMS (*Equipment Performance Monitoring System*) - это проект нацеленный на создание системы мониторинга функционирвания оборудования, созданный студентами Санкт-Петербургского Политехнического Университета в 2018 году.
 
-mayorovaproject.github.io/1.jpg
+https://mayorovaproject.github.io/1.jpg
 ## Команда
 
 *Глава проекта* | *Ещё какой-то чел*
