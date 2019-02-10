@@ -7,7 +7,7 @@ https://mayorovaproject.github.io/1.jpg
 *Глава проекта* | *Ещё какой-то чел*
 --------------- | ------------------
 **Майорова Александра** | **Артур Ишмухаметов**
-![alt text](1.jpg) | ![alt text](2.jpg)
+![alt text](images/1.jpg) | ![alt text](images/2.jpg)
 
 ### Контакты
 **git**
@@ -34,19 +34,19 @@ https://github.com/mayorovaproject/EPMS
 
 Модуль | Описание
 --------------- | ------------------
-![alt text](3.jpg) | ESP8266 (ESP-12) - Микропроцессор с интерфейсом Wi-Fi
-![alt text](4.jpg) | Ультразвуковой датчик расстояния - hc-sr04
-![alt text](5.jpg) | RMD6300 - rfid считыватель для меток на частоте 125 кГц
-![alt text](6.jpg) | SCT013 - инвазивный датчит тока
-![alt text](7.JPG) | Преобразователь тока собственной разработки
+![alt text](images/3.jpg) | ESP8266 (ESP-12) - Микропроцессор с интерфейсом Wi-Fi
+![alt text](images/4.jpg) | Ультразвуковой датчик расстояния - hc-sr04
+![alt text](images/5.jpg) | RMD6300 - rfid считыватель для меток на частоте 125 кГц
+![alt text](images/6.jpg) | SCT013 - инвазивный датчит тока
+![alt text](images/7.JPG) | Преобразователь тока собственной разработки
 
 ### Схемы соединения
 
-![alt text](9.jpg)
+![alt text](images/9.jpg)
 *Упрощенный вид*
 
 
-![alt text](8.jpg)
+![alt text](images/8.jpg)
 *Подробная схема*
 
 
