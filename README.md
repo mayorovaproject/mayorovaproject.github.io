@@ -8,20 +8,10 @@
 --------------- | ------------------
 **Майорова Александра** | **Артур Ишмухаметов**
 ![alt text](images/1.jpg) | ![alt text](images/2.jpg)
+@AlexandraMayorova | @ArthurIshmukhametov
+mayorova.alexandra83@gmail.com | stook1998@yandex.ru
 
-### Контакты
-**git**
-
-@AlexandraMayorova
-
-@ArthurIshmukhametov
-
-**e-mail**
-
-mayorova.alexandra83@gmail.com
-
-stook1998@yandex.ru
-
+********
 
 ## О проекте
 **Цель проекта** - разработать и вывести на рынок аппаратно-программный комплекс для контроля оборудования.
@@ -54,10 +44,15 @@ stook1998@yandex.ru
 ### Схемы соединения
 
 ![alt text](images/9.jpg)
+
 *Упрощенный вид*
 
 
 ![alt text](images/8.jpg)
+
 *Подробная схема*
 
+## Дальнейшее развитие
 
+* Собрать собственную плату на ESP, объедененную с токовым преобразователем
+* Дополнить ПО
