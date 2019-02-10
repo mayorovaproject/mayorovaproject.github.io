@@ -8,7 +8,7 @@
 --------------- | ------------------
 **Майорова Александра** | **Артур Ишмухаметов**
 ![alt text](images/1.jpg) | ![alt text](images/2.jpg)
-@AlexandraMayorova | @ArthurIshmukhametov
+[@AlexandraMayorova](https://github.com/AlexandraMayorova) | [@ArthurIshmukhametov](https://github.com/ArthurIshmukhametov)
 mayorova.alexandra83@gmail.com | stook1998@yandex.ru
 
 ********
